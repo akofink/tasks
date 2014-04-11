@@ -1,17 +1,17 @@
 import java.util.List;
 import java.util.ArrayList;
 
-public class Tasks {
+public class Cars {
   public static void main(String[] args) {
     //TODO
-    List<Task> tasks = new ArrayList<Task>();
+    List<Car> cars = new ArrayList<Car>();
 
     for (int i = 1; i <= 5; i++) {
-      tasks.add(new Task(i));
+      cars.add(new Car(i));
     }
 
-    for(Task task : tasks) {
-      task.work();
+    for(Car car : cars) {
+      car.work();
     }
 
     System.out.println("Success");
