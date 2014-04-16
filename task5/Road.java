@@ -1,9 +1,8 @@
 import java.util.List;
 import java.util.ArrayList;
 
-public class Cars {
+public class Road {
   public static void main(String[] args) {
-    //TODO
     List<Car> cars = new ArrayList<Car>();
 
     for (int i = 1; i <= 5; i++) {
