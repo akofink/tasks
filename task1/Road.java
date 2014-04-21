@@ -1,3 +1,5 @@
+package task1;
+
 public class Road {
   public static void main(String[] args) {
     Car1 car1 = new Car1();

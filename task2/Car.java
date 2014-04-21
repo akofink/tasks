@@ -1,3 +1,5 @@
+package task2;
+
 public class Car {
   private int id;
 
