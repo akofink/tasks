@@ -1,8 +1,5 @@
 package task2;
 
-import java.util.List;
-import java.util.ArrayList;
-
 public class Road {
   public static void main(String[] args) {
     Car1 car1 = new Car1();
